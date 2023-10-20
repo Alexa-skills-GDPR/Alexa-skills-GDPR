@@ -21,4 +21,4 @@ Category | Article | Label
 
 ![overall](https://github.com/Alexa-skills-GDPR/Alexa-skills-GDPR/blob/main/image/gdpr.png)
 <img src="https://github.com/Alexa-skills-GDPR/Alexa-skills-GDPR/blob/main/image/conversation.png" width="400">
-<img src="https://github.com/Alexa-skills-GDPR/Alexa-skills-GDPR/blob/main/image/permission.png" width="400">
+<img src="https://github.com/Alexa-skills-GDPR/Alexa-skills-GDPR/blob/main/image/permission.png" width="410">
