@@ -13,7 +13,6 @@ from selenium.webdriver.support import expected_conditions as EC
 
 #chrome_options = Options()
 
-#CHROME_PATH = "/home/song/Downloads/foreign_skill_testing/chromedriver"
 
 #user_agent = "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.5249.119 Safari/537.3"
 #chrome_options.add_argument(f'user-agent={user_agent}')
