@@ -25,10 +25,10 @@ driver = webdriver.Chrome(ChromeDriverManager().install())
 driver.get("https://developer.amazon.com/alexa/console/ask/test/amzn1.ask.skill.02c2f462-19cf-41b1-b30f-0c4cfc36f90e/development/de_DE/")
 
 email = WebDriverWait(driver, 10).until(EC.presence_of_element_located((By.ID, "ap_email")))
-email.send_keys("songforamazon@gmail.com")
+email.send_keys("")
 
 password = WebDriverWait(driver, 10).until(EC.presence_of_element_located((By.ID, "ap_password")))
-password.send_keys("Song123@")
+password.send_keys("@")
 
 password.send_keys(Keys.ENTER)
 
@@ -60,7 +60,7 @@ def generate_response(prompt):
     return response
 
 
-openai.api_key = "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"
+openai.api_key = ""
 
 with open('GE_skills.csv', newline='') as csvfile:
     reader = csv.DictReader(csvfile)
