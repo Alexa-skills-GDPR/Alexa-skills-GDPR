@@ -20,5 +20,5 @@ Category | Article | Label
 10 |13.2(d)  |Right to Lodge a Complaint
 
 ![overall](https://github.com/Alexa-skills-GDPR/Alexa-skills-GDPR/blob/main/image/gdpr.png)
-<img src="https://github.com/Alexa-skills-GDPR/Alexa-skills-GDPR/blob/main/image/conversation.png" width="480">
-<img src="https://github.com/Alexa-skills-GDPR/Alexa-skills-GDPR/blob/main/image/permission.png" width="480">
+<img src="https://github.com/Alexa-skills-GDPR/Alexa-skills-GDPR/blob/main/image/conversation.png" width="400">
+<img src="https://github.com/Alexa-skills-GDPR/Alexa-skills-GDPR/blob/main/image/permission.png" width="400">
